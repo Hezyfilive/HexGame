@@ -1,0 +1,7 @@
+{
+	"name": "Core",
+	"references": [
+		"UnityEngine",
+		"GUID:789132e05bc49a6469ca741c572df656"
+	]
+}

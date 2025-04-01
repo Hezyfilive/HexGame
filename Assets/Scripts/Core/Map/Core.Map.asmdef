@@ -1,0 +1,7 @@
+{
+	"name": "Core.Map",
+	"references": [
+		"GUID:1f9844b29a16366408f8fbe56ff80e81",
+		"GUID:0084673d0f019ab48ae29ba41ae73022"
+	]
+}

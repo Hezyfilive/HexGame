@@ -1,0 +1,10 @@
+{
+	"name": "Editor",
+	"references": [
+		"GUID:1f9844b29a16366408f8fbe56ff80e81",
+		"GUID:0084673d0f019ab48ae29ba41ae73022",
+		"UnityEditor",
+		"GUID:2041bbe460cebde43bd2625ea277c353",
+		"GUID:4a14742ba0c2e094fa167076de514a2a"
+	]
+}
