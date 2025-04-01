@@ -1,4 +1,0 @@
-repository "HexGame@unity_SQhTaasWvEoPdA@cloud"
-  path "/"
-    br "/main"
-    co "/main"
